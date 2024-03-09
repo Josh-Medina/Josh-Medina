@@ -6,6 +6,8 @@
 
 - <b> Custom Nmap scripts<b>
 
+- <b>Python C2 Server<b>
+
 - <b>Python Keylogger<b>
 
 - <b>Virtual homelab for testing<b>
