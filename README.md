@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
-<h2>Completed Projects:</h2>
+<h2>✅ Completed Projects: ✅</h2>
 
 - <b>[Python Keylogger](https://github.com/Josh-Medina/Python-Keylogger)<b>
 
