@@ -8,7 +8,7 @@
 
 - <b>Python C2 Server<b>
 
-- <b>Python Keylogger<b>
+- <b>[Python Keylogger](https://github.com/Josh-Medina/Python-Keylogger)<b>
 
 - <b>Virtual homelab for testing<b>
 
