@@ -6,7 +6,7 @@
 
 - <b>[Python Keylogger](https://github.com/Josh-Medina/Python-Keylogger)<b>
 
-
+- <b>[Active Directory homelab projects](https://github.com/Josh-Medina/Active-Directory-Homelab-Projects)<b>
 <h2><span>&#x1F6A7;</span> Projects Under Development: <span>&#x1F6A7;</span></h2>
 
 
@@ -16,7 +16,7 @@
 
 - <b>Python C2 Server<b>
 
-- <b>Azure Active Directory homelab project </b>
+
   
 
 <h2> 🤳 Connect with me:</h2>
