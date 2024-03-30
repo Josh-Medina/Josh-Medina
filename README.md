@@ -16,7 +16,7 @@
 
 - <b>Python C2 Server<b>
 
-- <b>Virtual Active Directory homelab project </b>
+- <b>Azure Active Directory homelab project </b>
   
 
 <h2> 🤳 Connect with me:</h2>
