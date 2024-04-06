@@ -1,4 +1,4 @@
-<h1>Welcome! I'm Josh. Cybersecurity student at ACC in Austin, Texas.</h1>
+<h1>Welcome to my GitHub!</h1>
 
 
 
@@ -12,9 +12,6 @@
 
 - <b>ARP Poisoning tool w/ Python<b>
 
-- <b> Custom Nmap scripts<b>
-
-- <b>Python C2 Server<b>
 
 
   
