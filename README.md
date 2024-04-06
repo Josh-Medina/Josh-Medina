@@ -1,6 +1,6 @@
 <h1>Welcome! I'm Josh. Cybersecurity student at ACC in Austin, Texas.</h1>
 
-<h2> 👨‍💻 Cybersecurity Projects:</h2>
+
 
 <h2>✅ Completed Projects: ✅</h2>
 
@@ -19,9 +19,7 @@
 
   
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="Joshua Medina | LinkedIn">](https://www.linkedin.com/in/joshua-medina1)
 
 
 
